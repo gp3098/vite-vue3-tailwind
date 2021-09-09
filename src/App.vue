@@ -9,6 +9,7 @@ import HelloWorld from './components/HelloWorld.vue';
     <div class="header">header</div>
     <div class="content">content</div>
     <div class="footer">footer</div>
+    <a-button type="primary">sss</a-button>
   </div>
   <!-- <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" /> -->
