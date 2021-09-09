@@ -5,3 +5,4 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()]
 })
+// node node_modules/esbuild/install.js

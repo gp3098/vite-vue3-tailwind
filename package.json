@@ -10,8 +10,12 @@
     "vue": "^3.2.6"
   },
   "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.14",
     "@vitejs/plugin-vue": "^1.6.1",
     "@vue/compiler-sfc": "^3.2.6",
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14",
     "vite": "^2.5.4"
   }
 }
